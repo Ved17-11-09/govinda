@@ -1,0 +1,28 @@
+#myNavbar{
+    width: 100% ;
+    margin: 0px ;
+}
+
+img {
+    width: 550px ;
+    height: 350px;
+}
+
+  body{
+    text-align : center ;
+    background-color : rgb(5, 199, 102) ;
+    color : white ;
+  }
+  
+  h1 {
+    color : red ;
+  }
+  
+  h2 {
+    color : blue ;
+  }
+
+  button{
+      color: white;
+      background-color: chocolate;
+  }
